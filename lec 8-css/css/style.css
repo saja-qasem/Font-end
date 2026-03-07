@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1{
+    color: darkgreen;
+    
+}
+p{
+  color: rgb(51, 28, 4);
+
+
+}
+img{
+    width: 500px; 
+}
+
+div{
+      display: flex;
+}

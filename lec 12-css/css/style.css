@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+img{
+    max-width: 50px;
+}
+
+header{
+    background-color: rgb(106, 106, 216);
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+ul li{
+    display: inline-block;
+    margin: 5px;
+}
+a{
+        text-decoration: none;
+
+}
